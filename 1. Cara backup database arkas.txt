@@ -1,0 +1,4 @@
+Cara backup database arkas
+
+1. Ekstrak file yang di download ke folder yang kalian aman, biasanya di drive D
+2. Lalu klik 2x pada "backup_arkas.cmd"
