@@ -1,0 +1,6 @@
+Tutorial restore database Arkas jika pindah PC atau install ulang:
+
+1. Copy file "RKASClient2022.db" terbaru yang ada pada backup folder
+2. Klik 2x pada "open_database_directory.bat"
+3. Lalu "klik kanan" dan "pilih paste"
+4. Buka aplikasi Arkas seperti biasanya

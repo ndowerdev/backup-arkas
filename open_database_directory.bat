@@ -1,0 +1,1 @@
+start %appdata%\ArtTech\RKAS\
